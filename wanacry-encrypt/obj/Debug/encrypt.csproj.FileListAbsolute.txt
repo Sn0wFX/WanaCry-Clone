@@ -1,0 +1,3 @@
+C:\Users\Entr0py\Desktop\Wanacry\wanacry-encrypt\obj\Debug\encrypt.csprojResolveAssemblyReference.cache
+C:\Users\Entr0py\Desktop\Wanacry\wanacry-encrypt\obj\Debug\ed.Properties.Resources.resources
+C:\Users\Entr0py\Desktop\Wanacry\wanacry-encrypt\obj\Debug\encrypt.csproj.GenerateResource.Cache

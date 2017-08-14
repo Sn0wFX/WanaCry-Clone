@@ -1,0 +1,8 @@
+C:\Users\Entr0py\Desktop\Wanacry\wanacry-gui\obj\Debug\wanacry-form.csprojResolveAssemblyReference.cache
+C:\Users\Entr0py\Desktop\Wanacry\wanacry-gui\obj\Debug\wg.Properties.Resources.resources
+C:\Users\Entr0py\Desktop\Wanacry\wanacry-gui\obj\Debug\wg.MainForm.resources
+C:\Users\Entr0py\Desktop\Wanacry\wanacry-gui\obj\Debug\wanacry-form.csproj.GenerateResource.Cache
+C:\Users\Entr0py\Desktop\Wanacry\wanacry-gui\bin\Debug\wg.exe
+C:\Users\Entr0py\Desktop\Wanacry\wanacry-gui\bin\Debug\wg.pdb
+C:\Users\Entr0py\Desktop\Wanacry\wanacry-gui\obj\Debug\wg.exe
+C:\Users\Entr0py\Desktop\Wanacry\wanacry-gui\obj\Debug\wg.pdb
